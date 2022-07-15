@@ -44,4 +44,3 @@
 </div>
 
 ###
-Profile Readme Generator
