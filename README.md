@@ -27,8 +27,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/not-felipe/not-felipe/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
