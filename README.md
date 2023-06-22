@@ -6,6 +6,8 @@
 
 ###
 
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=not-felipe&show_icons=true&theme=dracula&count_private=true)
+
 <p align="center">Technologies that I have experience with:</p>
 
 ###
